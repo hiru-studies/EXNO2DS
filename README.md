@@ -1,4 +1,6 @@
 # EXNO2DS
+## Name : HIRUTHIK SUDHAKAR
+## Roll : 212223240054
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
